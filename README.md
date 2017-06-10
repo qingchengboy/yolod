@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #tensorflow-yolo
 
 ### Require
@@ -72,6 +73,9 @@ python demo.py
 ```
 
 
+=======
+# yolod
+>>>>>>> cb2e3773fd6c6e64a4624507686be0ec2226563d
 =======
 # yolod
 >>>>>>> cb2e3773fd6c6e64a4624507686be0ec2226563d
